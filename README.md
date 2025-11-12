@@ -29,7 +29,7 @@ Prerequisites
 Install dependencies
 
 ```bash
-poetry install
+poetry install --no-root
 ```
 
 Environment variables
